@@ -1,0 +1,10 @@
+TO COMPILE:
+*in build directory:
+  cmake ../CMakeLists.txt
+  make
+
+You need to do cmake once, then any change to source files needs only 'make' command
+
+TO RUN:
+./digitizerReadout ../2021.07.27_001/
+

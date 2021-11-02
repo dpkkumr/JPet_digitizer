@@ -1,0 +1,168 @@
+FilePath 	 Mean Amp 	 Mean Period 	 Chi2/NDF
+../2021.07.27_001/TR_0_0_1	710.99	199.891	20.7254
+FilePath 	 Mean Amp 	 Mean Period 	 Chi2/NDF
+FilePath 	 Mean Amp 	 Mean Period 	 Chi2/NDF
+../2021.07.27_001/TR_0_0_2	799.885	199.89	29.264
+FilePath 	 Mean Amp 	 Mean Period 	 Chi2/NDF
+../2021.07.27_001TR_0_0_2	0	0	0
+FilePath 	 Mean Amp 	 Mean Period 	 Chi2/NDF
+../2021.07.27_001/TR_0_0_2	799.885	199.89	29.264
+FilePath 	 Mean Amp 	 Mean Period 	 Chi2/NDF
+../2021.07.27_001/TR_0_0_2	0	0	0
+FilePath 	 Mean Amp 	 Mean Period 	 Chi2/NDF
+../2021.07.27_001/TR_0_0_2	0	0	0
+FilePath 	 Mean Amp 	 Mean Period 	 Chi2/NDF
+../2021.07.27_001/TR_0_0_2	0	0	0
+FilePath 	 Mean Amp 	 Mean Period 	 Chi2/NDF
+../2021.07.27_001/TR_0_0_2	805.858	410.243	0
+FilePath 	 Mean Amp 	 Mean Period 	 Chi2/NDF
+../2021.07.27_001/TR_0_0_2	805.858	410.243	0
+FilePath 	 Mean Amp 	 Mean Period 	 Chi2/NDF
+FilePath 	 Mean Amp 	 Mean Period 	 Chi2/NDF
+../2021.07.27_001/TR_0_0_2	805.858	0	0
+FilePath 	 Mean Amp 	 Mean Period 	 Chi2/NDF
+../2021.07.27_001/TR_0_0_2	805.858	200	0
+FilePath 	 Mean Amp 	 Mean Period 	 Chi2/NDF
+../2021.07.27_001/TR_0_0_2	800	200	0
+FilePath 	 Mean Amp 	 Mean Period 	 Chi2/NDF
+../2021.07.27_001/TR_0_0_2	1000	200	0
+FilePath 	 Mean Amp 	 Mean Period 	 Chi2/NDF
+../2021.07.27_001/TR_0_0_2	800	200	0
+FilePath 	 Mean Amp 	 Mean Period 	 Chi2/NDF
+../2021.07.27_001/TR_0_0_2	800	200	0
+FilePath 	 Mean Amp 	 Mean Period 	 Chi2/NDF
+../2021.07.27_001/TR_0_0_2	799.849	199.886	28.8541
+FilePath 	 Mean Amp 	 Mean Period 	 Chi2/NDF
+../2021.07.27_001/TR_0_0_2	799.849	199.886	28.8541
+FilePath 	 Mean Amp 	 Mean Period 	 Chi2/NDF
+../2021.07.27_001/TR_0_0_2	799.849	199.886	28.8541
+FilePath 	 Mean Amp 	 Mean Period 	 Chi2/NDF
+../2021.07.27_001/TR_0_0_2	54.2297	106.505	0
+FilePath 	 Mean Amp 	 Mean Period 	 Chi2/NDF
+../2021.07.27_001/TR_0_0_2	799.849	199.886	28.8541
+FilePath 	 Mean Amp 	 Mean Period 	 Chi2/NDF
+../2021.07.27_001/TR_0_0_2	799.849	199.886	28.8541
+FilePath 	 Mean Amp 	 Mean Period 	 Chi2/NDF
+FilePath 	 Mean Amp 	 Mean Period 	 Chi2/NDF
+../2021.07.27_001/TR_0_0_2	420.146	398.283	29.2603
+FilePath 	 Mean Amp 	 Mean Period 	 Chi2/NDF
+../2021.07.27_001/TR_0_0_2	250.214	401.831	29.3337
+FilePath 	 Mean Amp 	 Mean Period 	 Chi2/NDF
+../2021.07.27_001/TR_0_0_2	85.9906	656.344	0
+FilePath 	 Mean Amp 	 Mean Period 	 Chi2/NDF
+../2021.07.27_001/TR_0_0_2	112.031	390.919	0
+FilePath 	 Mean Amp 	 Mean Period 	 Chi2/NDF
+../2021.07.27_001/TR_0_0_2	112.031	390.919	0
+FilePath 	 Mean Amp 	 Mean Period 	 Chi2/NDF
+../2021.07.27_001/TR_0_0_2	112.031	390.919	0
+FilePath 	 Mean Amp 	 Mean Period 	 Chi2/NDF
+../2021.07.27_001/TR_0_0_2	2.0684	2.02127	0
+FilePath 	 Mean Amp 	 Mean Period 	 Chi2/NDF
+../2021.07.27_001/TR_0_0_2	112.031	0.996944	0
+FilePath 	 Mean Amp 	 Mean Period 	 Chi2/NDF
+../2021.07.27_001/TR_0_0_2	2.0684	2.02127	0
+FilePath 	 Mean Amp 	 Mean Period 	 Chi2/NDF
+../2021.07.27_001/TR_0_0_2	2.0684	2.02127	0
+FilePath 	 Mean Amp 	 Mean Period 	 Chi2/NDF
+../2021.07.27_001/TR_0_0_2	2.0684	2.02127	0
+FilePath 	 Mean Amp 	 Mean Period 	 Chi2/NDF
+../2021.07.27_001/TR_0_0_2	2.0684	2.02127	0
+FilePath 	 Mean Amp 	 Mean Period 	 Chi2/NDF
+../2021.07.27_001/TR_0_0_2	2.0684	2.02127	0
+FilePath 	 Mean Amp 	 Mean Period 	 Chi2/NDF
+../2021.07.27_001/TR_0_0_2	54.2297	106.505	0
+FilePath 	 Mean Amp 	 Mean Period 	 Chi2/NDF
+../2021.07.27_001/TR_0_0_2	799.849	199.886	28.8541
+FilePath 	 Mean Amp 	 Mean Period 	 Chi2/NDF
+../2021.07.27_001/TR_0_0_2	707.258	174.483	29.2414
+FilePath 	 Mean Amp 	 Mean Period 	 Chi2/NDF
+../2021.07.27_001/TR_0_0_2	794.975	199.568	29.2614
+FilePath 	 Mean Amp 	 Mean Period 	 Chi2/NDF
+FilePath 	 Mean Amp 	 Mean Period 	 Chi2/NDF
+../2021.07.27_001/TR_0_0_2	0	0	0
+FilePath 	 Mean Amp 	 Mean Period 	 Chi2/NDF
+../2021.07.27_001/TR_0_0_2	799.849	199.886	28.8541
+FilePath 	 Mean Amp 	 Mean Period 	 Chi2/NDF
+../2021.07.27_001/TR_0_0_2	799.849	199.886	28.8541
+FilePath 	 Mean Amp 	 Mean Period 	 Chi2/NDF
+../2021.07.27_001/TR_0_0_2	799.849	199.886	28.8541
+FilePath 	 Mean Amp 	 Mean Period 	 Chi2/NDF
+FilePath 	 Mean Amp 	 Mean Period 	 Chi2/NDF
+../2021.07.27_001/TR_0_0_2	799.841	197.129	29.2944
+FilePath 	 Mean Amp 	 Mean Period 	 Chi2/NDF
+../2021.07.27_001/TR_0_0_2	799.819	199.888	29.3395
+FilePath 	 Mean Amp 	 Mean Period 	 Chi2/NDF
+../2021.07.27_001/TR_0_0_1	699.314	199.015	20.7644
+../2021.07.27_001/TR_0_0_2	786.984	199.014	29.3198
+../2021.07.27_001/TR_0_0_3	902.693	199.889	42.8255
+../2021.07.27_001/TR_0_0_4	989.444	199.888	59.8553
+../2021.07.27_001/TR_0_0_5	1076.41	199.884	80.1796
+../2021.07.27_001/wave_0_1	156.79	177.361	3.89277
+../2021.07.27_001/wave_0_2	345.064	191.205	5.89376
+../2021.07.27_001/wave_0_3	513.264	189.445	9.64236
+../2021.07.27_001/wave_0_4	736.956	193.864	15.1604
+../2021.07.27_001/wave_0_5	876.935	196.699	25.0563
+../2021.07.27_001/TR_0_0_6	302.114	261.93	16.3638
+../2021.07.27_001/TR_0_0_7	359.258	292.484	30.2892
+../2021.07.27_001/TR_0_0_8	427.532	323.762	34.5274
+../2021.07.27_001/TR_0_0_9	607.955	378.624	32.7802
+../2021.07.27_001/TR_0_0_10	510.542	350.553	30.057
+../2021.07.27_001/wave_0_6	1379.6	481.222	62.5646
+../2021.07.27_001/wave_0_7	1261.35	398.415	0
+../2021.07.27_001/wave_0_8	484.535	137.441	0
+../2021.07.27_001/wave_0_9	61.8575	31.8147	0
+../2021.07.27_001/wave_0_10	355.606	99.083	0
+FilePath 	 Mean Amp 	 Mean Period 	 Chi2/NDF
+../10MHz_400mVpp/TR_0_0_1	0	0	0
+../10MHz_400mVpp/TR_0_0_2	0	0	0
+../10MHz_400mVpp/TR_0_0_3	0	0	0
+FilePath 	 Mean Amp 	 Mean Period 	 Chi2/NDF
+../10MHz_400mVpp/TR_0_0_1	0	0	0
+../10MHz_400mVpp/TR_0_0_2	0	0	0
+../10MHz_400mVpp/TR_0_0_3	0	0	0
+../10MHz_400mVpp/TR_0_0_4	0	0	0
+../10MHz_400mVpp/TR_0_0_5	0	0	0
+../10MHz_400mVpp/wave_0_1	0	0	0
+../10MHz_400mVpp/wave_0_2	0	0	0
+../10MHz_400mVpp/wave_0_3	0	0	0
+../10MHz_400mVpp/wave_0_4	0	0	0
+../10MHz_400mVpp/wave_0_5	0	0	0
+../10MHz_400mVpp/TR_0_0_6	0	0	0
+../10MHz_400mVpp/TR_0_0_7	0	0	0
+../10MHz_400mVpp/TR_0_0_8	0	0	0
+../10MHz_400mVpp/TR_0_0_9	0	0	0
+../10MHz_400mVpp/TR_0_0_10	0	0	0
+../10MHz_400mVpp/wave_0_6	0	0	0
+../10MHz_400mVpp/wave_0_7	0	0	0
+../10MHz_400mVpp/wave_0_8	0	0	0
+../10MHz_400mVpp/wave_0_9	0	0	0
+../10MHz_400mVpp/wave_0_10	0	0	0
+FilePath 	 Mean Amp 	 Mean Period 	 Chi2/NDF
+FilePath 	 Mean Amp 	 Mean Period 	 Chi2/NDF
+../10MHz_400mVpp/wave_5	0.247293	18.2839	3.15235
+../10MHz_400mVpp/wave_6	0.195661	19.3471	2.60551
+../10MHz_400mVpp/wave_7	653.577	236.291	19.4377
+FilePath 	 Mean Amp 	 Mean Period 	 Chi2/NDF
+../10MHz_400mVpp/wave_5	0.247293	18.2839	3.15235
+FilePath 	 Mean Amp 	 Mean Period 	 Chi2/NDF
+../10MHz_400mVpp/wave_7	641.233	234.964	19.502
+FilePath 	 Mean Amp 	 Mean Period 	 Chi2/NDF
+../10MHz_400mVpp/wave_7	641.233	234.964	19.502
+FilePath 	 Mean Amp 	 Mean Period 	 Chi2/NDF
+../10MHz_400mVpp/wave_7	641.233	234.964	19.502
+FilePath 	 Mean Amp 	 Mean Period 	 Chi2/NDF
+../10MHz_800mVpp/wave_7	1339.87	244.487	59.8741
+FilePath 	 Mean Amp 	 Mean Period 	 Chi2/NDF
+../10MHz_1200mVpp/wave_7	1317.16	177.073	0
+FilePath 	 Mean Amp 	 Mean Period 	 Chi2/NDF
+../15MHz_400mVpp/wave_7	685.142	158.862	13.3006
+FilePath 	 Mean Amp 	 Mean Period 	 Chi2/NDF
+../15MHz_800mVpp/wave_7	1409.13	165.732	50.2672
+FilePath 	 Mean Amp 	 Mean Period 	 Chi2/NDF
+../15MHz_1200mVpp/wave_7	1522.93	144.075	0
+FilePath 	 Mean Amp 	 Mean Period 	 Chi2/NDF
+../20MHz_400mVpp/wave_7	695.875	121.6	16.5175
+FilePath 	 Mean Amp 	 Mean Period 	 Chi2/NDF
+../20MHz_800mVpp/wave_7	1435.08	122.083	80.7943
+FilePath 	 Mean Amp 	 Mean Period 	 Chi2/NDF
+../20MHz_1200mVpp/wave_7	1537.86	108.148	0
