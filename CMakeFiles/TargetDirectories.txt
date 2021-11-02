@@ -1,0 +1,3 @@
+/run/media/dpk/DATA/pl/digitizerReadout/CMakeFiles/rebuild_cache.dir
+/run/media/dpk/DATA/pl/digitizerReadout/CMakeFiles/edit_cache.dir
+/run/media/dpk/DATA/pl/digitizerReadout/CMakeFiles/digizerReadout.dir
